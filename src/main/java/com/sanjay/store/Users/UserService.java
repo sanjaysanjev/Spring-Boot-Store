@@ -2,7 +2,7 @@ package com.sanjay.store.Users;
 
 import lombok.AllArgsConstructor;
 
-//import lombok.var;
+import lombok.var;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

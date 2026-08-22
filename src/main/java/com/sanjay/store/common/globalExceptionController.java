@@ -1,6 +1,6 @@
 package com.sanjay.store.common;
 
-//import lombok.var;
+import lombok.var;
 import org.springframework.http.ResponseEntity;
 import org.springframework.http.converter.HttpMessageNotReadableException;
 import org.springframework.web.bind.MethodArgumentNotValidException;
