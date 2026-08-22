@@ -1,6 +1,6 @@
 package com.sanjay.store.auth;
 import com.sanjay.store.Users.Role;
-import lombok.var;
+import lombok.*;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.AuthenticationProvider;

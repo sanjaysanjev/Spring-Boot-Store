@@ -7,7 +7,7 @@ import io.jsonwebtoken.security.Keys;
 
 import lombok.AllArgsConstructor;
 
-import lombok.var;
+import lombok.*;
 import org.springframework.stereotype.Service;
 
 import java.util.Date;

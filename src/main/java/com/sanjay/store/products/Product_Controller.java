@@ -3,7 +3,7 @@ package com.sanjay.store.products;
 import com.sanjay.store.carts.ProductDto;
 import lombok.AllArgsConstructor;
 
-import lombok.var;
+import lombok.*;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.util.UriComponentsBuilder;
