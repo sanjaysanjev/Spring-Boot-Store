@@ -4,7 +4,7 @@ import com.sanjay.store.Users.User;
 import com.sanjay.store.Users.UserRepository;
 import lombok.AllArgsConstructor;
 
-import lombok.var;
+//import lombok.var;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Service;
 
