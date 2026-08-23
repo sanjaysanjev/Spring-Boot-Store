@@ -8,7 +8,7 @@ CREATE TABLE carts (
 SELECT BIN_TO_UUID(id) AS id, Date_Created
 FROM carts;
 
-CREATE TABLE Cart_Items (
+CREATE TABLE cart_items (
     id BIGINT AUTO_INCREMENT PRIMARY KEY,
     cart_id BINARY(16) NOT NULL,
     product_id BIGINT NOT NULL,
